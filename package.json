@@ -1,0 +1,14 @@
+{
+  "name": "flat-arc",
+  "version": "1.0.0",
+  "description": "Test project for arc bounding boxes",
+  "main": "test-flat-arc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dxf": "^4.2.2"
+  }
+}
